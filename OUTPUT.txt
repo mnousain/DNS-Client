@@ -1,0 +1,166 @@
+Resolving Hostname: twitch.tv
+Preparing DNS query...
+DNS query header = 0xb2c401000001000000000000
+DNS query question section = 0x67477697463680274760000010001
+Complete DNS query = 0xb2c401000001000000000000067477697463680274760000010001
+
+Contacting DNS server...
+Sending DNS query...
+DNS Response recieved 1 of 3 attempts
+-------------------------------------------
+Response: 0xb2c481800001000400000000067477697463680274760000010001c00c000100010000019200049765c2a7c00c00010001000001920004976542a7c00c00010001000001920004976582a7c00c00010001000001920004976502a7
+Address: ('8.8.8.8', 53)
+Response_Size: 182
+-------------------------------------------
+header.ID = 0xb2c4
+header.QR = 0x1
+header.Opcode = 0x0
+header.AA = 0x0
+header.TC = 0x0
+header.RD = 0x1
+header.RA = 0x1
+header.Z = 0x0
+header.RCODE = 0x0
+header.QDCOUNT = 0x1
+header.ANCOUNT = 0x4
+header.NSCODE = 0x0
+header.ARCOUNT = 0x0
+-------------------------------------------
+question.QNAME = 0x7477697463687476
+question.QTYPE = 0x1
+question.QCLASS = 0x1
+-------------------------------------------
+Answer 1
+answer.NAME = 0xc00c
+answer.TYPE = 0x1
+answer.CLASS = 0x1
+answer.TTL = 402 seconds
+answer.RDLENGTH = 4
+answer.RDATA = 151.101.194.167
+-------------------------------------------
+Answer 2
+answer.NAME = 0xc00c
+answer.TYPE = 0x1
+answer.CLASS = 0x1
+answer.TTL = 402 seconds
+answer.RDLENGTH = 4
+answer.RDATA = 151.101.66.167
+-------------------------------------------
+Answer 3
+answer.NAME = 0xc00c
+answer.TYPE = 0x1
+answer.CLASS = 0x1
+answer.TTL = 402 seconds
+answer.RDLENGTH = 4
+answer.RDATA = 151.101.130.167
+-------------------------------------------
+Answer 4
+answer.NAME = 0xc00c
+answer.TYPE = 0x1
+answer.CLASS = 0x1
+answer.TTL = 402 seconds
+answer.RDLENGTH = 4
+answer.RDATA = 151.101.2.167
+-------------------------------------------
+
+
+
+Resolving Hostname: www.netflix.com
+Preparing DNS query...
+DNS query header = 0x999d01000001000000000000
+DNS query question section = 0x76e6574666c697803636f6d0000010001
+Complete DNS query = 0x999d01000001000000000000076e6574666c697803636f6d0000010001
+
+Contacting DNS server...
+Sending DNS query...
+DNS Response recieved 1 of 3 attempts
+-------------------------------------------
+Response: 0x999d81800001000300000000076e6574666c697803636f6d0000010001c00c000100010000003b000403e15c08c00c000100010000003b000436a05db6c00c000100010000003b000403d39d73
+Address: ('8.8.8.8', 53)
+Response_Size: 154
+-------------------------------------------
+header.ID = 0x999d
+header.QR = 0x1
+header.Opcode = 0x0
+header.AA = 0x0
+header.TC = 0x0
+header.RD = 0x1
+header.RA = 0x1
+header.Z = 0x0
+header.RCODE = 0x0
+header.QDCOUNT = 0x1
+header.ANCOUNT = 0x3
+header.NSCODE = 0x0
+header.ARCOUNT = 0x0
+-------------------------------------------
+question.QNAME = 0x6e6574666c6978636f6d
+question.QTYPE = 0x1
+question.QCLASS = 0x1
+-------------------------------------------
+Answer 1
+answer.NAME = 0xc00c
+answer.TYPE = 0x1
+answer.CLASS = 0x1
+answer.TTL = 59 seconds
+answer.RDLENGTH = 4
+answer.RDATA = 3.225.92.8
+-------------------------------------------
+Answer 2
+answer.NAME = 0xc00c
+answer.TYPE = 0x1
+answer.CLASS = 0x1
+answer.TTL = 59 seconds
+answer.RDLENGTH = 4
+answer.RDATA = 54.160.93.182
+-------------------------------------------
+Answer 3
+answer.NAME = 0xc00c
+answer.TYPE = 0x1
+answer.CLASS = 0x1
+answer.TTL = 59 seconds
+answer.RDLENGTH = 4
+answer.RDATA = 3.211.157.115
+-------------------------------------------
+
+
+
+Resolving Hostname: linkedin.com
+Preparing DNS query...
+DNS query header = 0xe67601000001000000000000
+DNS query question section = 0x86c696e6b6564696e03636f6d0000010001
+Complete DNS query = 0xe67601000001000000000000086c696e6b6564696e03636f6d0000010001
+
+Contacting DNS server...
+Sending DNS query...
+DNS Response recieved 1 of 3 attempts
+-------------------------------------------
+Response: 0xe67681800001000100000000086c696e6b6564696e03636f6d0000010001c00c000100010000012b00040d6b2a0e
+Address: ('8.8.8.8', 53)
+Response_Size: 92
+-------------------------------------------
+header.ID = 0xe676
+header.QR = 0x1
+header.Opcode = 0x0
+header.AA = 0x0
+header.TC = 0x0
+header.RD = 0x1
+header.RA = 0x1
+header.Z = 0x0
+header.RCODE = 0x0
+header.QDCOUNT = 0x1
+header.ANCOUNT = 0x1
+header.NSCODE = 0x0
+header.ARCOUNT = 0x0
+-------------------------------------------
+question.QNAME = 0x6c696e6b6564696e636f6d
+question.QTYPE = 0x1
+question.QCLASS = 0x1
+-------------------------------------------
+Answer 1
+answer.NAME = 0xc00c
+answer.TYPE = 0x1
+answer.CLASS = 0x1
+answer.TTL = 299 seconds
+answer.RDLENGTH = 4
+answer.RDATA = 13.107.42.14
+-------------------------------------------
