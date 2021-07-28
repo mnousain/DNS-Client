@@ -4,6 +4,10 @@ This program is a DNS client that can query existing DNS servers for a domain na
 ## How To Run
 To compile and run the program:
 
-```python3 my-dns-client.py host-name```
+```my-dns-client.py host-name```
 
 where ```host-name``` is a command line argument
+
+Example:
+
+```my-dns-client.py twitch.tv```
